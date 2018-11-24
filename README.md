@@ -3,7 +3,7 @@ My first C++ project, focused on teaching basics of C++, pointer manipulation, e
 
 Spec (short version):
 
-Speed Kabab will stock shishkebabs made from five di↵erent ingredients:
+Speed Kabab will stock shishkebabs made from five different ingredients:
 beef, tomatoes, mushrooms, (green) pepper, and squash.
 Each of these items is represented by the first single upper- or lower-case character of its name
 
